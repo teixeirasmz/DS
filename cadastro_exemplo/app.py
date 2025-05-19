@@ -2,6 +2,7 @@ import tkinter as tk
 from telaInicial import TelaInicial
 from telaCadastro  import TelaCadastro
 
+
 class App:
     def __init__(self, root):
         self.root = root

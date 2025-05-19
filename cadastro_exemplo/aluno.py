@@ -4,4 +4,4 @@ class Aluno:
         self.idade = idade
 
     def __str__(self):
-         return f"Estudante: {self.nome} possui {self.idade} anos"
+        return f"Estudante: {self.nome} possui {self.idade} anos"
